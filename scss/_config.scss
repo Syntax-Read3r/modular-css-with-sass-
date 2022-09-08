@@ -19,6 +19,25 @@ $font-weight--ultra-bold: 900;
 
 // Descriptive Base Colors
 
+$white: #fff;
+$black: #000;
+$grey: #ccc;
+
+$fountain-blue: #5bc0de;
+$emerald: #5cb85c;
+$alizarin: #d9534f;
+$coral: #f0ad4e;
+$purple-majesty: #6f42c1;
+$scooter: #2b5797;
+
 // Color Usage
 
+$color--primary: $fountain-blue;
+$color--secondary: $scooter;
+$color--accent: $emerald;
+$color-shadow: rgba($black, 0.2);
+
 // Text
+
+$base__font-size: 16px;
+$base__line-height: 24px;
